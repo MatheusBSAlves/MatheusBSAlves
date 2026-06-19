@@ -1,4 +1,3 @@
-[github]: https://github.com/MatheusBSAlves
 [linkedin]: https://www.linkedin.com/in/matheus-berno-a673203b0/
 [instagram]: https://www.instagram.com/matheusberno77/
 [email]: mailto:matheusbsalves@gmail.com?subject=Contact%20via%20GitHub&body=Hello%20Matheus!
@@ -9,7 +8,6 @@
 - 🌱 I’m focused on my studies and work.
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]

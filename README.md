@@ -3,7 +3,6 @@
 [email]: mailto:matheusbsalves@gmail.com?subject=Contact%20via%20GitHub&body=Hello%20Matheus!
 
 ### Hey, I'm Matheus
-## Systems Analysis and Development Student | Developer in Training
 - 🔭 Aiming to become a professional developer.
 - 🌱 I’m focused on my studies and work.
 

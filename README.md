@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
-<br/>
 
 # Technologies
 ### Backend
@@ -26,7 +25,6 @@
 ![Construct 3](https://img.shields.io/badge/Construct%203-00A2FF?style=for-the-badge&logo=construct3&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game%20Development-2D%20Games-blueviolet?style=for-the-badge)
 ![State Machines](https://img.shields.io/badge/State%20Machines-AI%20Behavior-38BDF8?style=for-the-badge)
-<br/>
 
 # IDEs and Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -34,7 +32,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>
 
 # GitHub Stats
 ![Matheus Berno GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusBSAlves&show_icons=true&theme=tokyonight)

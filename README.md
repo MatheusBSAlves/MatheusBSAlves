@@ -35,6 +35,7 @@
 
 # GitHub Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusBSAlves&label=Profile views&color=0e75b6&style=flat" alt="MatheusBSAlves" /> </p>
 <p>
   <img
     align="top"
@@ -47,3 +48,5 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusBSAlves&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
   />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheusbsalves&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=230&excludeDaysLabel=0D1117&dates=EBEBEB&currStreakLabel=D4D9FF&sideLabels=D4D9FF&sideNums=6D00A8&ring=6D00A8&fire=6D00A8&currStreakNum=6D00A8)](https://git.io/streak-stats)

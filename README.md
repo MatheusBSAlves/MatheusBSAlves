@@ -35,7 +35,7 @@
 
 # GitHub Stats
 
-<p align="center">
+<p>
   <img
     align="top"
     height="195"

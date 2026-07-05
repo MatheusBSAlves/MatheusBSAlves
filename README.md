@@ -34,5 +34,20 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # GitHub Stats
-![Matheus Berno GitHub stats](https://github-stats-extended.vercel.app/api?username=MatheusBSAlves&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusBSAlves&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+<table>
+  <tr>
+    <td valign="top">
+      <img
+        height="195"
+        src="https://github-stats-extended.vercel.app/api?username=MatheusBSAlves&show_icons=true&theme=tokyonight&hide_border=true)"
+      />
+    </td>
+    <td valign="top">
+      <img
+        height="195"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusBSAlves&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>

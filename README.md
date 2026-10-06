@@ -42,7 +42,6 @@ Technologies I use across projects while continuing to deepen my skills.
 ![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Back-end & data
 
@@ -69,12 +68,6 @@ Technologies I use across projects while continuing to deepen my skills.
 My personal portfolio, bringing together projects, contact links and my developer identity. Continuously evolving alongside my work.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
-
-### [Guia da Profissionalização](https://github.com/MatheusBSAlves/guia-profissional-app)
-
-A collaborative academic project with an interview-preparation questionnaire and a résumé builder with live preview.
-
-`HTML` · `CSS` · `JavaScript`
 
 ### [Pringles landing page](https://github.com/MatheusBSAlves/landing-pringles)
 
@@ -104,9 +97,4 @@ A front-end practice project exploring product presentation, visual composition 
     </a>
   </p>
   <p>
-    <img
-      src="https://komarev.com/ghpvc/?username=MatheusBSAlves&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
-      alt="GitHub profile views"
-    />
-  </p>
 </details>

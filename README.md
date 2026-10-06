@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Matheus Berno.</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer &amp; UI/UX Designer</strong>
+  <strong>Systems Analysis and Development(ADS) &amp; UI/UX Designer student</strong>
 </p>
 
 <p align="center">

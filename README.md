@@ -25,9 +25,9 @@
 
 ## About me
 
-I'm a developer and UI/UX designer from Brazil, currently studying **Systems Analysis and Development (ADS)**.
+I'm a developer in progress and UI/UX designer from Brazil, currently studying **Systems Analysis and Development (ADS)**.
 
-My projects bring together **web development, interface design and interactive experiences**. I work on both the interface and the application behind it, connecting responsive layouts, reusable components, authentication and databases.
+My projects bring together **web development, interface design and interactive experiences**. I work on both the interface and the application behind it, connecting responsive layouts,  components, authentication and databases.
 
 I'm continuing to develop my skills through hands-on projects, with a focus on **full-stack applications, clear user experiences and purposeful animation**.
 

@@ -1,50 +1,112 @@
+<h1 align="center">Hey, I'm Matheus Berno.</h1>
 
-[linkedin]: https://www.linkedin.com/in/matheus-berno-a673203b0/
-[instagram]: https://www.instagram.com/matheusberno77/
-[email]: mailto:matheusbsalves@gmail.com?subject=Contact%20via%20GitHub&body=Hello%20Matheus!
-
-# _Hey, I'm Matheus_
-- 🔭 Aiming to become a professional developer.
-- 🌱 I’m focused on my studies and work.
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
-
-# Technologies
-### Backend
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Nodejs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-### Game Development
-![Construct 3](https://img.shields.io/badge/Construct%203-00A2FF?style=for-the-badge&logo=construct3&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game%20Development-2D%20Games-blueviolet?style=for-the-badge)
-![State Machines](https://img.shields.io/badge/State%20Machines-AI%20Behavior-38BDF8?style=for-the-badge)
-
-# IDEs and Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-# GitHub Stats
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusBSAlves&label=Profile views&color=0e75b6&style=flat" alt="MatheusBSAlves" /> </p>
-<p>
-  <img
-    align="top"
-    height="195"
-    src="https://github-stats-extended.vercel.app/api?username=MatheusBSAlves&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    align="top"
-    height="195"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusBSAlves&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  />
+<p align="center">
+  <strong>Full-Stack Developer &amp; UI/UX Designer</strong>
 </p>
+
+<p align="center">
+  Building web applications with attention to usability, visual design and the details that connect them.
+</p>
+
+<p align="center">
+  <a href="https://www.theuxdev.uk/">
+    <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white" alt="Visit my portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-berno-a673203b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge" alt="Connect with me on LinkedIn" />
+  </a>
+  <a href="mailto:matheusbsalves@gmail.com?subject=Contact%20via%20GitHub&amp;body=Hello%20Matheus!">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" />
+  </a>
+  <a href="https://www.instagram.com/matheusberno77/">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Find me on Instagram" />
+  </a>
+</p>
+
+## About me
+
+I'm a developer and UI/UX designer from Brazil, currently studying **Systems Analysis and Development (ADS)**.
+
+My projects bring together **web development, interface design and interactive experiences**. I work on both the interface and the application behind it, connecting responsive layouts, reusable components, authentication and databases.
+
+I'm continuing to develop my skills through hands-on projects, with a focus on **full-stack applications, clear user experiences and purposeful animation**.
+
+## Tech stack
+
+Technologies I use across projects while continuing to deepen my skills.
+
+### Front-end & interfaces
+
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Back-end & data
+
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-18181B?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+![Better Auth](https://img.shields.io/badge/Better_Auth-18181B?style=for-the-badge)
+
+### Design & workflow
+
+![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Development environment:** VS Code and PowerShell on Windows.
+
+**Additional experience:** HTML, CSS, Python, C++, and 2D game development with Construct 3 and state machines.
+
+## Selected projects
+
+### [Theux Dev](https://github.com/MatheusBSAlves/theuxdev.menu-nw)
+
+My personal portfolio, bringing together projects, contact links and my developer identity. Continuously evolving alongside my work.
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+### [Guia da Profissionalização](https://github.com/MatheusBSAlves/guia-profissional-app)
+
+A collaborative academic project with an interview-preparation questionnaire and a résumé builder with live preview.
+
+`HTML` · `CSS` · `JavaScript`
+
+### [Pringles landing page](https://github.com/MatheusBSAlves/landing-pringles)
+
+A front-end practice project exploring product presentation, visual composition and slide-based navigation.
+
+`HTML` · `CSS` · `JavaScript`
+
+---
+
+<details>
+  <summary><strong>GitHub activity</strong></summary>
+  <br />
+  <p>
+    <a href="https://github.com/MatheusBSAlves">
+      <img
+        width="430"
+        src="https://github-stats-extended.vercel.app/api?username=MatheusBSAlves&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"
+        alt="Matheus Berno's GitHub activity statistics"
+      />
+    </a>
+    <a href="https://github.com/MatheusBSAlves?tab=repositories">
+      <img
+        width="330"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusBSAlves&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"
+        alt="Languages represented in Matheus Berno's repositories"
+      />
+    </a>
+  </p>
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=MatheusBSAlves&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+      alt="GitHub profile views"
+    />
+  </p>
+</details>
